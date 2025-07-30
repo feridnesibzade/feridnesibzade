@@ -1,3 +1,5 @@
+![alt text](https://github.com/feridnesibzade/feridnesibzade/blob/main/367876bae284d72b3bd74ffa1e4346d7.jpg?raw=true)
+
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
