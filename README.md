@@ -1,4 +1,4 @@
-![alt text](https://github.com/feridnesibzade/feridnesibzade/blob/main/367876bae284d72b3bd74ffa1e4346d7.jpg?raw=true)
+![Test](https://github.com/feridnesibzade/feridnesibzade/blob/main/assets/367876bae284d72b3bd74ffa1e4346d7.jpg)
 
 ## Hi there 👋
 
