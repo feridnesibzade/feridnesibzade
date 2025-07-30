@@ -1,4 +1,4 @@
-![Knight](https://github.com/feridnesibzade/feridnesibzade/blob/main/assets/367876bae284d72b3bd74ffa1e4346d7.jpg)
+![Dark Souls](https://github.com/feridnesibzade/feridnesibzade/blob/main/assets/06a85b703ccc50fcc2214bac56214f48.gif)
 
 ## Hi there 👋
 
