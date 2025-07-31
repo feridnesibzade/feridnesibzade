@@ -7,7 +7,7 @@ $fi = new FilesystemIterator(__DIR__.'/../assets/wallpapers', FilesystemIterator
 $imageCount = iterator_count($fi);
 
 $files = array_filter(               // ② keep only real files
-    glob($dir . '/*'),               //   → ['/path/file1.jpg', '/path/file2.png', …]
+    glob(__DIR__ .'/../assets/wallpapers' . '/*'),               //   → ['/path/file1.jpg', '/path/file2.png', …]
     'is_file'
 );
 $file = array_rand($files);
