@@ -1,5 +1,5 @@
 <!--WALLPAPER-->
-![Wallpaper](assets/wallpapers/3.gif)
+![Wallpaper](assets/wallpapers/6.gif)
 <!--/WALLPAPER-->
 
 ## Hi there 👋
