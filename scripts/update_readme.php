@@ -14,7 +14,7 @@ $type = $extensions[array_rand($extensions,1)];
 $fileName = rand(1,2);
 $updated = preg_replace(
     '/<!--WALLPAPER-->.*?<!--\/WALLPAPER-->/s',
-    "<!--WALLPAPER-->\n![wallpaper]({$path}{$fileName}{$type})\n<!--/WALLPAPER-->",
+    "<!--WALLPAPER-->\n![Wallpaper]({$path}{$fileName}{$type})\n<!--/WALLPAPER-->",
     $markdown
 );
 
