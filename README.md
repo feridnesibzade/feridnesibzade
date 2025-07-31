@@ -1,6 +1,7 @@
 <!--WALLPAPER-->
-![Wallpaper](https://github.com/feridnesibzade/feridnesibzade/blob/main/assets/wallpapers/2.gif)
-<!--/WALLPAPER-->
+    ![Wallpaper](https://github.com/feridnesibzade/feridnesibzade/blob/main/assets/wallpapers/1.gif)
+    6
+    <!--/WALLPAPER-->
 
 ## Hi there 👋
 
