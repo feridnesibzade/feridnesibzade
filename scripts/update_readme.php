@@ -1,34 +1,19 @@
 <?php
+$readme = __DIR__.'/../README.md';
+$wallDir = __DIR__.'/../assets/wallpapers';
 
-$readme = __DIR__ . '/../README.md';
-$path = 'https://github.com/feridnesibzade/feridnesibzade/blob/main/assets/wallpapers/';
+$files = array_filter(glob($wallDir.'/*'), 'is_file');
+if (!$files) { exit("No wallpapers found\n"); }
 
-$fi = new FilesystemIterator(__DIR__.'/../assets/wallpapers', FilesystemIterator::SKIP_DOTS);
-$imageCount = iterator_count($fi);
-
-$files = array_filter(               // ② keep only real files
-    glob(__DIR__ .'/../assets/wallpapers' . '/*'),               //   → ['/path/file1.jpg', '/path/file2.png', …]
-    'is_file'
-);
-$file = $files[array_rand($files)];
-
-if (!file_exists($readme)) {
-    fwrite(STDERR, "README.md not found\n");
-    exit(1);
-}
+$filename = basename($files[array_rand($files)]);
+$relative = "assets/wallpapers/{$filename}";     // <-- README üçün yetərlidir
+// $relative = "https://raw.githubusercontent.com/…/{$filename}"; // alternativ
 
 $markdown = file_get_contents($readme);
-$stamp    = gmdate('Y-m-d H:i') . ' UTC';
-$type = '.gif';
-$fileName = rand(1,$imageCount);
-$updated = preg_replace(
+$markdown = preg_replace(
     '/<!--WALLPAPER-->.*?<!--\/WALLPAPER-->/s',
-    "<!--WALLPAPER-->
-    ![Wallpaper]({$file})
-    <!--/WALLPAPER-->",
+    "<!--WALLPAPER-->\n![Wallpaper]({$relative})\n<!--/WALLPAPER-->",
     $markdown
 );
 
-file_put_contents($readme, $updated);
-
-// ![Dark Souls](https://github.com/feridnesibzade/feridnesibzade/blob/main/assets/06a85b703ccc50fcc2214bac56214f48.gif)
+file_put_contents($readme, $markdown);
