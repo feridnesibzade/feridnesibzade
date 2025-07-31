@@ -6,6 +6,12 @@ $path = 'https://github.com/feridnesibzade/feridnesibzade/blob/main/assets/wallp
 $fi = new FilesystemIterator(__DIR__.'/../assets/wallpapers', FilesystemIterator::SKIP_DOTS);
 $imageCount = iterator_count($fi);
 
+$files = array_filter(               // ② keep only real files
+    glob($dir . '/*'),               //   → ['/path/file1.jpg', '/path/file2.png', …]
+    'is_file'
+);
+$file = array_rand($files);
+
 if (!file_exists($readme)) {
     fwrite(STDERR, "README.md not found\n");
     exit(1);
@@ -17,7 +23,10 @@ $type = '.gif';
 $fileName = rand(1,$imageCount);
 $updated = preg_replace(
     '/<!--WALLPAPER-->.*?<!--\/WALLPAPER-->/s',
-    "<!--WALLPAPER-->\n![Wallpaper]({$path}{$fileName}{$type})\n<!--/WALLPAPER-->",
+    "<!--WALLPAPER-->
+    ![Wallpaper]({$path}{$fileName}{$type})
+    {$file}
+    <!--/WALLPAPER-->",
     $markdown
 );
 
