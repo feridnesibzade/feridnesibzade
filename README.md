@@ -1,5 +1,5 @@
 <!--WALLPAPER-->
-![Wallpaper](/home/runner/work/feridnesibzade/feridnesibzade/scripts/../assets/wallpapers/1.gif)
+![Wallpaper](assets/wallpapers/1.gif)
 <!--/WALLPAPER-->
 
 ## Hi there 👋
