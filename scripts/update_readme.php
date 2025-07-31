@@ -2,6 +2,9 @@
 
 $readme = __DIR__ . '/../README.md';
 $path = 'https://github.com/feridnesibzade/feridnesibzade/blob/main/assets/wallpapers/';
+
+$fi = new FilesystemIterator(__DIR__.'/../assets/wallpapers', FilesystemIterator::SKIP_DOTS);
+
 if (!file_exists($readme)) {
     fwrite(STDERR, "README.md not found\n");
     exit(1);
@@ -14,7 +17,10 @@ $type = $extensions[array_rand($extensions,1)];
 $fileName = rand(1,2);
 $updated = preg_replace(
     '/<!--WALLPAPER-->.*?<!--\/WALLPAPER-->/s',
-    "<!--WALLPAPER-->\n![Wallpaper]({$path}{$fileName}{$type})\n<!--/WALLPAPER-->",
+    "<!--WALLPAPER-->\n
+    ![Wallpaper]({$path}{$fileName}{$type})
+    "There were %d Files": iterator_count($fi)
+    \n<!--/WALLPAPER-->",
     $markdown
 );
 
