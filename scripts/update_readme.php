@@ -13,7 +13,7 @@ $type = array_rand(['.jpg', '.gif'],1)[0];
 $fileName = rand(1,2);
 $updated = preg_replace(
     '/<!--WALLPAPER-->.*?<!--\/WALLPAPER-->/s',
-    "<!--WALLPAPER-->\n![wallpaper]({$path}{$fileName}.{$type}) _\n<!--/WALLPAPER-->",
+    "<!--WALLPAPER-->\n![wallpaper]({$path}{$fileName}.{$type})\n<!--/WALLPAPER-->",
     $markdown
 );
 
