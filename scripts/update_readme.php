@@ -11,7 +11,7 @@ $stamp    = gmdate('Y-m-d H:i') . ' UTC';
 
 $updated = preg_replace(
     '/<!--WALLPAPPER-->.*?<!--\/WALLPAPPER-->/s',
-    "<!--WALLPAPPER-->\n_Last refresh: $stamp_\n<!--/WALLPAPPER-->",
+    "<!--WALLPAPPER-->\n _Last refresh: {$stamp} _\n<!--/WALLPAPPER-->",
     $markdown
 );
 
