@@ -10,7 +10,7 @@ $files = array_filter(               // ② keep only real files
     glob(__DIR__ .'/../assets/wallpapers' . '/*'),               //   → ['/path/file1.jpg', '/path/file2.png', …]
     'is_file'
 );
-$file = array_rand($files);
+$file = $files[array_rand($files)];
 
 if (!file_exists($readme)) {
     fwrite(STDERR, "README.md not found\n");
