@@ -17,9 +17,7 @@ $type = '.gif';
 $fileName = rand(1,$imageCount);
 $updated = preg_replace(
     '/<!--WALLPAPER-->.*?<!--\/WALLPAPER-->/s',
-    "<!--WALLPAPER-->\n
-    ![Wallpaper]({$path}{$fileName}{$type})
-    \n<!--/WALLPAPER-->",
+    "<!--WALLPAPER-->\n![Wallpaper]({$path}{$fileName}{$type})\n<!--/WALLPAPER-->",
     $markdown
 );
 
