@@ -9,7 +9,8 @@ if (!file_exists($readme)) {
 
 $markdown = file_get_contents($readme);
 $stamp    = gmdate('Y-m-d H:i') . ' UTC';
-$type = array_rand(['.jpg', '.gif'],1)[0];
+$extensions = ['.jpg', '.gif'];
+$type = $extensions[array_rand($extensions,1)];
 $fileName = rand(1,2);
 $updated = preg_replace(
     '/<!--WALLPAPER-->.*?<!--\/WALLPAPER-->/s',
