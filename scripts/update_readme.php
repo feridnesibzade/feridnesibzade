@@ -10,8 +10,8 @@ $markdown = file_get_contents($path);
 $stamp    = gmdate('Y-m-d H:i') . ' UTC';
 
 $updated = preg_replace(
-    '/<!--WALLPAPPER-->.*?<!--\/WALLPAPPER-->/s',
-    "<!--WALLPAPPER-->\n _Last refresh: {$stamp} _\n<!--/WALLPAPPER-->",
+    '/<!--WALLPAPER-->.*?<!--\/WALLPAPER-->/s',
+    "<!--WALLPAPER-->\n _Last refresh: {$stamp} _\n<!--/WALLPAPER-->",
     $markdown
 );
 
