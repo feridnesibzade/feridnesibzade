@@ -1,4 +1,3 @@
-![Dark Souls](https://github.com/feridnesibzade/feridnesibzade/blob/main/assets/06a85b703ccc50fcc2214bac56214f48.gif)
 <!--WALLPAPER-->
 ![wallpaper](https://github.com/feridnesibzade/feridnesibzade/blob/main/assets/wallpapers/1.gif)
 <!--/WALLPAPER-->
