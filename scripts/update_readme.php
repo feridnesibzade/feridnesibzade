@@ -6,8 +6,7 @@ $files = array_filter(glob($wallDir.'/*'), 'is_file');
 if (!$files) { exit("No wallpapers found\n"); }
 
 $filename = basename($files[array_rand($files)]);
-$relative = "assets/wallpapers/{$filename}";     // <-- README üçün yetərlidir
-// $relative = "https://raw.githubusercontent.com/…/{$filename}"; // alternativ
+$relative = "assets/wallpapers/{$filename}";
 
 $markdown = file_get_contents($readme);
 $markdown = preg_replace(
