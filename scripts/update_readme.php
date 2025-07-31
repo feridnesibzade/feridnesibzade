@@ -24,8 +24,7 @@ $fileName = rand(1,$imageCount);
 $updated = preg_replace(
     '/<!--WALLPAPER-->.*?<!--\/WALLPAPER-->/s',
     "<!--WALLPAPER-->
-    ![Wallpaper]({$path}{$fileName}{$type})
-    {$file}
+    ![Wallpaper]({$file})
     <!--/WALLPAPER-->",
     $markdown
 );
