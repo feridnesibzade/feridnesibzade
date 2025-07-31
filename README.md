@@ -1,7 +1,6 @@
 <!--WALLPAPER-->
 
-    ![Wallpaper](https://github.com/feridnesibzade/feridnesibzade/blob/main/assets/wallpapers/2.jpg)
-    There were %d Files: 3 
+    ![Wallpaper](https://github.com/feridnesibzade/feridnesibzade/blob/main/assets/wallpapers/3.gif)
     
 <!--/WALLPAPER-->
 
