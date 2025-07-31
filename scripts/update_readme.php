@@ -19,7 +19,6 @@ $updated = preg_replace(
     '/<!--WALLPAPER-->.*?<!--\/WALLPAPER-->/s',
     "<!--WALLPAPER-->\n
     ![Wallpaper]({$path}{$fileName}{$type})
-    There were %d Files: $imageCount 
     \n<!--/WALLPAPER-->",
     $markdown
 );
