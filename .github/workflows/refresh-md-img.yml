@@ -3,7 +3,7 @@ name: Refresh MD img
 on:
   
   schedule:
-    - cron:  '* * */1 * *'  
+    - cron:  '0 5 * * *'  
   workflow_dispatch:
 
 permissions:
