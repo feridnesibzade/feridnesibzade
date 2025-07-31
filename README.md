@@ -1,5 +1,5 @@
 <!--WALLPAPER-->
-![wallpaper](https://github.com/feridnesibzade/feridnesibzade/blob/main/assets/wallpapers/1.gif)
+![Wallpaper](https://github.com/feridnesibzade/feridnesibzade/blob/main/assets/wallpapers/1.jpg)
 <!--/WALLPAPER-->
 
 ## Hi there 👋
