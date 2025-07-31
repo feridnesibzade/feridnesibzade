@@ -1,6 +1,6 @@
 ![Dark Souls](https://github.com/feridnesibzade/feridnesibzade/blob/main/assets/06a85b703ccc50fcc2214bac56214f48.gif)
 <!--WALLPAPER-->
- _Last refresh: 2025-07-31 08:59 UTC _
+ [wallpaper](https://github.com/feridnesibzade/feridnesibzade/blob/main/assets/wallpapers/2.1) _
 <!--/WALLPAPER-->
 
 ## Hi there 👋
