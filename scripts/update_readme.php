@@ -11,7 +11,11 @@ $relative = "assets/wallpapers/{$filename}";
 $markdown = file_get_contents($readme);
 $markdown = preg_replace(
     '/<!--WALLPAPER-->.*?<!--\/WALLPAPER-->/s',
-    "<!--WALLPAPER-->\n![Wallpaper]({$relative})\n<!--/WALLPAPER-->",
+"<!--WALLPAPER-->
+<p align='center'>
+  <img src='{$relative}' alt='Banner'>
+</p>
+<!--/WALLPAPER-->",
     $markdown
 );
 
