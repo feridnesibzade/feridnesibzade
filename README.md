@@ -1,5 +1,7 @@
 <!--WALLPAPER-->
-![Wallpaper](assets/wallpapers/12.gif)
+<p align='center'>
+  <img src='assets/wallpapers/4.gif' alt='Banner'>
+</p>
 <!--/WALLPAPER-->
 
 ## Hi there 👋
