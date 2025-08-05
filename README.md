@@ -15,8 +15,6 @@
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 2,614 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -91,5 +89,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/feridnesibzade/feridnesibzade/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2025 18:41:02 UTC
+ Last Updated on 05/08/2025 19:06:47 UTC
 <!--END_SECTION:waka-->
