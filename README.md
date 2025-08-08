@@ -94,7 +94,7 @@ Vue                      1 repo              █░░░░░░░░░░�
  Last Updated on 08/08/2025 07:06:47 UTC
 <!--END_SECTION:waka-->
 
-### 🛠️ Texnologiyalar və Alətlər
+### 🛠️ Techs and Tools
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
