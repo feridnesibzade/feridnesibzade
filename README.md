@@ -7,7 +7,7 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -89,7 +89,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/feridnesibzade/feridnesibzade/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2025 06:56:34 UTC
+ Last Updated on 16/09/2025 07:17:43 UTC
 <!--END_SECTION:waka-->
 
 ### 🛠️ Techs and Tools
