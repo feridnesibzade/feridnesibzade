@@ -7,7 +7,7 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-877%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-878%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
 
@@ -15,7 +15,7 @@
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 4,542 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,7 +91,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/feridnesibzade/feridnesibzade/main/assets/bar_graph.png)
 
 
- Last Updated on 11/12/2025 12:54:50 UTC
+ Last Updated on 11/12/2025 13:37:23 UTC
 <!--END_SECTION:waka-->
 
 ### 🛠️ Techs and Tools
