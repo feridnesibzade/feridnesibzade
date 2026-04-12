@@ -1,6 +1,6 @@
 <!--WALLPAPER-->
 <p align='center'>
-  <img src='assets/wallpapers/20.gif' alt='Banner'>
+  <img src='assets/wallpapers/15.gif' alt='Banner'>
 </p>
 <!--/WALLPAPER-->
 
