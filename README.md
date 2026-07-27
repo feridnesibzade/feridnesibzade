@@ -13,7 +13,7 @@
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 1,236 Contributions in the Year 2026
+> 🏆 1,238 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -24,19 +24,19 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                30756 commits       ████████░░░░░░░░░░░░░░░░░   33.24 % 
-🌆 Daytime                54623 commits       ███████████████░░░░░░░░░░   59.03 % 
-🌃 Evening                6430 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+🌞 Morning                30773 commits       ████████░░░░░░░░░░░░░░░░░   33.23 % 
+🌆 Daytime                54681 commits       ███████████████░░░░░░░░░░   59.04 % 
+🌃 Evening                6431 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
 🌙 Night                  726 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   19284 commits       █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
-Tuesday                  18164 commits       █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
-Wednesday                17310 commits       █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
-Thursday                 19795 commits       █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
-Friday                   15190 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Monday                   19292 commits       █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+Tuesday                  18189 commits       █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+Wednesday                17337 commits       █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+Thursday                 19800 commits       █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
+Friday                   15201 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
 Saturday                 1566 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 Sunday                   1226 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 ```
@@ -48,28 +48,28 @@ Sunday                   1226 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Baku
 
 💬 Programming Languages: 
-Other                    18 hrs 6 mins       ██████████████░░░░░░░░░░░   57.77 % 
-PHP                      9 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   28.83 % 
-Vue                      1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-Markdown                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-JavaScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Other                    19 hrs 57 mins      ██████████████░░░░░░░░░░░   57.38 % 
+PHP                      10 hrs 9 mins       ███████░░░░░░░░░░░░░░░░░░   29.18 % 
+Vue                      1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Blade Template           56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+JavaScript               55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 🔥 Editors: 
-Firefox                  16 hrs 37 mins      █████████████░░░░░░░░░░░░   53.06 % 
-PhpStorm                 8 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   27.00 % 
-Claude Code              3 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-TablePlus                1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-DesktopSSHClient         56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Firefox                  17 hrs 54 mins      █████████████░░░░░░░░░░░░   51.47 % 
+PhpStorm                 10 hrs 28 mins      ████████░░░░░░░░░░░░░░░░░   30.11 % 
+Claude Code              3 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+DesktopSSHClient         2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Herd                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 🐱‍💻 Projects: 
-azeriqaz.loc             15 hrs 45 mins      █████████████░░░░░░░░░░░░   50.29 % 
-examination-registry     8 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   26.95 % 
-azerigas-modular-monolit 3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-Unknown Project          2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Azeriqaz                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+azeriqaz.loc             24 hrs 43 mins      ██████████████████░░░░░░░   71.06 % 
+examination-registry     6 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+Unknown Project          2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+Azeriqaz                 1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+azerigas-modular-monolit 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 💻 Operating System: 
-Windows                  31 hrs 20 mins      █████████████████████████   100.00 % 
+Windows                  34 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -89,7 +89,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/feridnesibzade/feridnesibzade/main/assets/bar_graph.png)
 
 
- Last Updated on 20/07/2026 03:40:04 UTC
+ Last Updated on 27/07/2026 03:03:11 UTC
 <!--END_SECTION:waka-->
 
 ### 🛠️ Techs and Tools
