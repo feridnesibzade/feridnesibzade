@@ -13,7 +13,7 @@
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 1,238 Contributions in the Year 2026
+> 🏆 1,284 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -24,19 +24,19 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                30778 commits       ████████░░░░░░░░░░░░░░░░░   33.22 % 
-🌆 Daytime                54703 commits       ███████████████░░░░░░░░░░   59.05 % 
-🌃 Evening                6433 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+🌞 Morning                30821 commits       ████████░░░░░░░░░░░░░░░░░   33.23 % 
+🌆 Daytime                54758 commits       ███████████████░░░░░░░░░░   59.04 % 
+🌃 Evening                6440 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
 🌙 Night                  726 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   19306 commits       █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
-Tuesday                  18191 commits       █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-Wednesday                17339 commits       █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
-Thursday                 19805 commits       █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
-Friday                   15207 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Monday                   19342 commits       █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
+Tuesday                  18224 commits       █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
+Wednesday                17348 commits       █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+Thursday                 19823 commits       █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
+Friday                   15216 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
 Saturday                 1566 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 Sunday                   1226 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 ```
@@ -48,49 +48,50 @@ Sunday                   1226 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Baku
 
 💬 Programming Languages: 
-Other                    17 hrs 28 mins      █████████████████░░░░░░░░   66.14 % 
-PHP                      7 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   27.07 % 
-Blade Template           57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-JavaScript               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-Vue                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Other                    15 hrs 45 mins      █████████████░░░░░░░░░░░░   52.34 % 
+PHP                      11 hrs 36 mins      ██████████░░░░░░░░░░░░░░░   38.56 % 
+JavaScript               1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Blade Template           45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Text                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 🔥 Editors: 
-Firefox                  15 hrs 26 mins      ███████████████░░░░░░░░░░   58.44 % 
-PhpStorm                 6 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
-Claude Code              1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-DesktopSSHClient         1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-TablePlus                45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Firefox                  13 hrs 50 mins      ████████████░░░░░░░░░░░░░   46.02 % 
+PhpStorm                 10 hrs 19 mins      █████████░░░░░░░░░░░░░░░░   34.31 % 
+Claude Code              3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+DesktopSSHClient         1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+TablePlus                50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 
 🐱‍💻 Projects: 
-azeriqaz.loc             19 hrs 56 mins      ███████████████████░░░░░░   75.49 % 
-examination-registry     4 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-Unknown Project          2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-Azeriqaz                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+azeriqaz.loc             15 hrs 48 mins      █████████████░░░░░░░░░░░░   52.55 % 
+examination-registry     6 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
+Azeriqaz                 4 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Unknown Project          2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+nuclei                   30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 
 💻 Operating System: 
-Windows                  26 hrs 25 mins      █████████████████████████   100.00 % 
+Windows                  30 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 29 mins (9.42%)
+⏱ AI Coding Time: 4 hrs 55 mins (16.38%)
 
-✍️ 690 lines written by AI, 415 lines written by hand (62.44% AI-written)
+✍️ 1,002 lines written by AI, 1,034 lines written by hand (49.21% AI-written)
 
-🔤 17,953,176 Input Tokens, 168,095 Output Tokens
+🔤 9,994,318 Input Tokens, 161,421 Output Tokens
 
-💵 $93.97 Estimated AI Cost This Week
+💵 $57.18 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 51 AI Prompts
+🧠 16 AI Sessions, 152 AI Prompts
 
-Opus                     826 lines           █████████████████████████   100.00 % 
+Opus                     1,013 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 62.44% of written lines came from AI
-📚 Verbose Prompter — average 1,506 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 57.18% of changed lines were hand-edited
+⚖️ Balanced with AI — 49.21% of written lines came from AI
+📚 Verbose Prompter — average 1,708 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🔍 Hands-On Reviewer — 58.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -110,7 +111,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/feridnesibzade/feridnesibzade/main/assets/bar_graph.png)
 
 
- Last Updated on 03/08/2026 02:58:13 UTC
+ Last Updated on 10/08/2026 01:56:27 UTC
 <!--END_SECTION:waka-->
 
 ### 🛠️ Techs and Tools
