@@ -48,50 +48,22 @@ Sunday                   1226 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Baku
 
 💬 Programming Languages: 
-Other                    15 hrs 45 mins      █████████████░░░░░░░░░░░░   52.34 % 
-PHP                      11 hrs 36 mins      ██████████░░░░░░░░░░░░░░░   38.56 % 
-JavaScript               1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-Blade Template           45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-Text                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Firefox                  13 hrs 50 mins      ████████████░░░░░░░░░░░░░   46.02 % 
-PhpStorm                 10 hrs 19 mins      █████████░░░░░░░░░░░░░░░░   34.31 % 
-Claude Code              3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-DesktopSSHClient         1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-TablePlus                50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-azeriqaz.loc             15 hrs 48 mins      █████████████░░░░░░░░░░░░   52.55 % 
-examination-registry     6 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
-Azeriqaz                 4 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Unknown Project          2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-nuclei                   30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  30 hrs 5 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 55 mins (16.38%)
-
-✍️ 1,002 lines written by AI, 1,034 lines written by hand (49.21% AI-written)
-
-🔤 9,994,318 Input Tokens, 161,421 Output Tokens
-
-💵 $57.18 Estimated AI Cost This Week
-
-🧠 16 AI Sessions, 152 AI Prompts
-
-Opus                     1,013 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 49.21% of written lines came from AI
-📚 Verbose Prompter — average 1,708 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🔍 Hands-On Reviewer — 58.23% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -111,7 +83,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/feridnesibzade/feridnesibzade/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 01:56:27 UTC
+ Last Updated on 17/08/2026 01:28:00 UTC
 <!--END_SECTION:waka-->
 
 ### 🛠️ Techs and Tools
