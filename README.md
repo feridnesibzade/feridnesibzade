@@ -13,7 +13,7 @@
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 1,306 Contributions in the Year 2026
+> 🏆 1,339 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -24,21 +24,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                35244 commits       ████████░░░░░░░░░░░░░░░░░   33.21 % 
-🌆 Daytime                62765 commits       ███████████████░░░░░░░░░░   59.14 % 
-🌃 Evening                7309 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-🌙 Night                  820 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+🌞 Morning                33251 commits       ████████░░░░░░░░░░░░░░░░░   33.25 % 
+🌆 Daytime                59081 commits       ███████████████░░░░░░░░░░   59.08 % 
+🌃 Evening                6901 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+🌙 Night                  773 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   22123 commits       █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
-Tuesday                  21073 commits       █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
-Wednesday                19875 commits       █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
-Thursday                 22531 commits       █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
-Friday                   17388 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-Saturday                 1764 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-Sunday                   1384 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Monday                   20825 commits       █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
+Tuesday                  19892 commits       █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+Wednesday                18742 commits       █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+Thursday                 21213 commits       █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
+Friday                   16364 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+Saturday                 1665 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Sunday                   1305 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 ```
 
 
@@ -48,52 +48,52 @@ Sunday                   1384 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Baku
 
 💬 Programming Languages: 
-Other                    17 hrs 15 mins      ███████████░░░░░░░░░░░░░░   44.89 % 
-PHP                      15 hrs 9 mins       ██████████░░░░░░░░░░░░░░░   39.43 % 
-Markdown                 2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-Blade Template           1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-JavaScript               1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+PHP                      18 hrs 34 mins      ████████████░░░░░░░░░░░░░   48.04 % 
+Other                    14 hrs 46 mins      ██████████░░░░░░░░░░░░░░░   38.22 % 
+Blade Template           1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Markdown                 1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Vue                      1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 🔥 Editors: 
-Firefox                  15 hrs 39 mins      ██████████░░░░░░░░░░░░░░░   40.75 % 
-PhpStorm                 13 hrs 25 mins      █████████░░░░░░░░░░░░░░░░   34.95 % 
-Claude Code              6 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-TablePlus                1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-Termius                  59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+PhpStorm                 16 hrs 10 mins      ██████████░░░░░░░░░░░░░░░   41.85 % 
+Firefox                  12 hrs 27 mins      ████████░░░░░░░░░░░░░░░░░   32.22 % 
+Claude Code              5 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+TablePlus                2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+DesktopSSHClient         1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
 
 🐱‍💻 Projects: 
-azeriqaz.loc             32 hrs 8 mins       █████████████████████░░░░   83.65 % 
-Unknown Project          2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-examination-registry     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-avenoxbeyin              1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Azeriqaz                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+azeriqaz.loc             25 hrs 46 mins      █████████████████░░░░░░░░   66.66 % 
+examination-registry     5 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Unknown Project          3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Azeriqaz                 3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+azerigas-modular-monolit 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 💻 Operating System: 
-Windows                  38 hrs 25 mins      █████████████████████████   100.00 % 
+Windows                  38 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 19 mins (24.27%)
+⏱ AI Coding Time: 9 hrs 19 mins (24.1%)
 
-✍️ 12,013 lines written by AI, 1,567 lines written by hand (88.46% AI-written)
+✍️ 4,921 lines written by AI, 2,670 lines written by hand (64.83% AI-written)
 
-🔤 4,984,973 Input Tokens, 779,055 Output Tokens
+🔤 3,779,244 Input Tokens, 481,553 Output Tokens
 
-💵 $173.20 Estimated AI Cost This Week
+💵 $83.57 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 51 AI Prompts
+🧠 21 AI Sessions, 144 AI Prompts
 
-Opus                     12,149 lines        █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     4,864 lines         ████████████████████████░   97.36 % 
+Sonnet                   132 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.46% of written lines came from AI
-📚 Verbose Prompter — average 1,779 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 33.27% of changed lines were hand-edited
+⚖️ Balanced with AI — 64.83% of written lines came from AI
+📚 Verbose Prompter — average 2,599 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 66.94% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -113,7 +113,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/feridnesibzade/feridnesibzade/main/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2026 03:59:06 UTC
+ Last Updated on 07/09/2026 03:11:16 UTC
 <!--END_SECTION:waka-->
 
 ### 🛠️ Techs and Tools
