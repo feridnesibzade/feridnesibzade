@@ -13,7 +13,7 @@
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 1,732 Contributions in the Year 2026
+> 🏆 1,758 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -24,19 +24,19 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                33500 commits       ████████░░░░░░░░░░░░░░░░░   33.19 % 
-🌆 Daytime                59748 commits       ███████████████░░░░░░░░░░   59.19 % 
-🌃 Evening                6916 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-🌙 Night                  773 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+🌞 Morning                33558 commits       ████████░░░░░░░░░░░░░░░░░   33.19 % 
+🌆 Daytime                59863 commits       ███████████████░░░░░░░░░░   59.20 % 
+🌃 Evening                6919 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+🌙 Night                  773 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   21006 commits       █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
-Tuesday                  20159 commits       █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
-Wednesday                18874 commits       █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
-Thursday                 21371 commits       █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-Friday                   16557 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Monday                   21038 commits       █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
+Tuesday                  20170 commits       █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+Wednesday                18901 commits       █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
+Thursday                 21441 commits       █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
+Friday                   16593 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
 Saturday                 1665 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 Sunday                   1305 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 ```
@@ -48,50 +48,50 @@ Sunday                   1305 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Baku
 
 💬 Programming Languages: 
-PHP                      16 hrs 42 mins      ████████████░░░░░░░░░░░░░   49.19 % 
-Other                    14 hrs 13 mins      ██████████░░░░░░░░░░░░░░░   41.89 % 
-Blade Template           1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-JavaScript               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-Text                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Other                    14 hrs 37 mins      ███████████░░░░░░░░░░░░░░   42.22 % 
+PHP                      14 hrs 3 mins       ██████████░░░░░░░░░░░░░░░   40.55 % 
+JavaScript               2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Blade Template           1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+Vue                      1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 
 🔥 Editors: 
-PhpStorm                 16 hrs 45 mins      ████████████░░░░░░░░░░░░░   49.33 % 
-Firefox                  10 hrs 55 mins      ████████░░░░░░░░░░░░░░░░░   32.16 % 
-TablePlus                2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-Claude Code              2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-DesktopSSHClient         50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+PhpStorm                 13 hrs 42 mins      ██████████░░░░░░░░░░░░░░░   39.56 % 
+Firefox                  13 hrs 27 mins      ██████████░░░░░░░░░░░░░░░   38.84 % 
+Claude Code              4 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+DesktopSSHClient         1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+TablePlus                1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 🐱‍💻 Projects: 
-azeriqaz.loc             24 hrs 1 min        ██████████████████░░░░░░░   70.74 % 
-azerigas-modular-monolit 4 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Unknown Project          3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Azeriqaz                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-examination-registry     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+azeriqaz.loc             21 hrs 58 mins      ████████████████░░░░░░░░░   63.43 % 
+examination-registry     6 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+Azeriqaz                 2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Unknown Project          2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+ponytail                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 💻 Operating System: 
-Windows                  33 hrs 58 mins      █████████████████████████   100.00 % 
+Windows                  34 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 11 mins (9.42%)
+⏱ AI Coding Time: 5 hrs 30 mins (15.91%)
 
-✍️ 1,619 lines written by AI, 5,153 lines written by hand (23.91% AI-written)
+✍️ 2,723 lines written by AI, 1,107 lines written by hand (71.1% AI-written)
 
-🔤 959,921 Input Tokens, 206,049 Output Tokens
+🔤 1,501,312 Input Tokens, 486,511 Output Tokens
 
-💵 $12.01 Estimated AI Cost This Week
+💵 $30.16 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 45 AI Prompts
+🧠 22 AI Sessions, 92 AI Prompts
 
-Opus                     1,677 lines         █████████████████████████   100.00 % 
+Opus                     2,799 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 23.91% of written lines came from AI
-📄 Detailed Prompter — average 1,480 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 77.97% of changed lines were hand-edited
+🤖 AI-Driven — 71.1% of written lines came from AI
+📄 Detailed Prompter — average 1,496 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 35.79% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -111,7 +111,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/feridnesibzade/feridnesibzade/main/assets/bar_graph.png)
 
 
- Last Updated on 05/10/2026 04:25:46 UTC
+ Last Updated on 12/10/2026 04:37:46 UTC
 <!--END_SECTION:waka-->
 
 ### 🛠️ Techs and Tools
