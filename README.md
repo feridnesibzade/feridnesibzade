@@ -13,7 +13,7 @@
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 2,078 Contributions in the Year 2026
+> 🏆 2,103 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -24,19 +24,19 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                36099 commits       ████████░░░░░░░░░░░░░░░░░   33.17 % 
-🌆 Daytime                64537 commits       ███████████████░░░░░░░░░░   59.31 % 
-🌃 Evening                7359 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+🌞 Morning                36167 commits       ████████░░░░░░░░░░░░░░░░░   33.15 % 
+🌆 Daytime                64729 commits       ███████████████░░░░░░░░░░   59.33 % 
+🌃 Evening                7377 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
 🌙 Night                  820 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   22574 commits       █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-Tuesday                  21848 commits       █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-Wednesday                20319 commits       █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-Thursday                 23062 commits       █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-Friday                   17864 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Monday                   22619 commits       █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
+Tuesday                  21869 commits       █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
+Wednesday                20397 commits       █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+Thursday                 23138 commits       █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
+Friday                   17922 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
 Saturday                 1764 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 Sunday                   1384 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 ```
@@ -48,51 +48,52 @@ Sunday                   1384 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Baku
 
 💬 Programming Languages: 
-Other                    16 hrs 41 mins      ███████████░░░░░░░░░░░░░░   44.75 % 
-PHP                      7 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
-Markdown                 6 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
-Blade Template           1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-Text                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Other                    17 hrs 56 mins      ████████████░░░░░░░░░░░░░   48.11 % 
+PHP                      12 hrs 6 mins       ████████░░░░░░░░░░░░░░░░░   32.47 % 
+Markdown                 1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+HTML                     1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+JavaScript               1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 
 🔥 Editors: 
-Firefox                  16 hrs 46 mins      ███████████░░░░░░░░░░░░░░   44.96 % 
-Claude Code              13 hrs 44 mins      █████████░░░░░░░░░░░░░░░░   36.85 % 
-PhpStorm                 4 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-TablePlus                55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-DesktopSSHClient         29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Firefox                  14 hrs 18 mins      ██████████░░░░░░░░░░░░░░░   38.36 % 
+Claude Code              11 hrs 55 mins      ████████░░░░░░░░░░░░░░░░░   31.98 % 
+PhpStorm                 7 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
+TablePlus                2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+DesktopSSHClient         1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 
 🐱‍💻 Projects: 
-azeriqaz.loc             23 hrs 24 mins      ████████████████░░░░░░░░░   62.77 % 
-scenes                   5 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-Azeriqaz                 3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Unknown Project          1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-WindowsScenes            1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+azeriqaz.loc             27 hrs 2 mins       ██████████████████░░░░░░░   72.51 % 
+examination-registry     4 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Unknown Project          3 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+Azeriqaz                 1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+scenes                   32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 💻 Operating System: 
-Windows                  37 hrs 18 mins      █████████████████████████   100.00 % 
+Windows                  37 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 55 mins (40.03%)
+⏱ AI Coding Time: 13 hrs 35 mins (36.44%)
 
-✍️ 32,915 lines written by AI, 860 lines written by hand (97.45% AI-written)
+✍️ 17,753 lines written by AI, 44,106 lines written by hand (28.7% AI-written)
 
-🔤 8,222,413 Input Tokens, 2,404,670 Output Tokens
+🔤 8,600,943 Input Tokens, 1,848,050 Output Tokens
 
-💵 $202.97 Estimated AI Cost This Week
+💵 $176.21 Estimated AI Cost This Week
 
-🧠 42 AI Sessions, 240 AI Prompts
+🧠 39 AI Sessions, 267 AI Prompts
 
-Opus                     33,262 lines        █████████████████████████   100.00 % 
+Opus                     18,143 lines        █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.45% of written lines came from AI
-📚 Verbose Prompter — average 3,869 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 12.52% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 28.7% of written lines came from AI
+📚 Verbose Prompter — average 2,369 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 92.86% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -112,7 +113,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/feridnesibzade/feridnesibzade/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2026 03:34:14 UTC
+ Last Updated on 26/10/2026 03:35:16 UTC
 <!--END_SECTION:waka-->
 
 ### 🛠️ Techs and Tools
